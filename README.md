@@ -1,4 +1,4 @@
-#**🐱🐶 Cat vs Dog Classifier**
+**🐱🐶 Cat vs Dog Classifier**
 
 This repository contains an interactive web application that classifies images of cats 🐱 and dogs 🐶 using a Support Vector Machine (SVM).
 
